@@ -1,1 +1,3 @@
-# Discord-ChatBot https://discord.com/invite/nHVjHJyp7v
+# Discord-ChatBot
+
+Join the [Discord server!](https://discord.com/invite/nHVjHJyp7v)
